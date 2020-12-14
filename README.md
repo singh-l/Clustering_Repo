@@ -1,7 +1,8 @@
 ## Clustering_Repo
 </br>
-**An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: A novel approach***
+**An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: A novel approach**
 </br>
+Author(s): Lovedeep Singh*
 *indicates first author paper
 
 <img src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/01/17162345/clustering-algorithms-in-Machine-Learning.jpg" width=200>
