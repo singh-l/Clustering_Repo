@@ -2,7 +2,7 @@
 
 </br>
 
-**Clustering Text : a comparison between available text vectorization techniques*** &emps;&emps;&emps;&emps;*indicates first author paper
+**Clustering Text : a comparison between available text vectorization techniques** *                &emps;&emps;&emps;&emps;*indicates first author paper
 </br>
 Author(s): Lovedeep Singh                                                       
 
