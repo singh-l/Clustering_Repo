@@ -1,6 +1,6 @@
 ## Clustering_Repo
 </br>
-**Clustering Text : a comparison between available text vectorization techniques***
+**An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: A novel approach***
 </br>
 *indicates first author paper
 
