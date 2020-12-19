@@ -4,7 +4,7 @@
 
 **Clustering Text : a comparison between available text vectorization techniques***  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </br>
-Author(s): Lovedeep Singh                                                       
+Author: Lovedeep Singh                                                       
 
 <img src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/01/17162345/clustering-algorithms-in-Machine-Learning.jpg" width=150>
 
