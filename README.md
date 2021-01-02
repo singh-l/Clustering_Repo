@@ -1,8 +1,7 @@
 ## Clustering_Repo
+[![Website](https://img.shields.io/website?label=WEB_PAGE&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/lovedeepsingh/research/twitterlikes)](https://sites.google.com/view/lovedeepsingh/research/twitterlikes)
+</br>
 
-</br>
-[![Website](https://img.shields.io/website?label=WEB_PAGE&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/lovedeepsingh/research/twitterlikes)](https://sites.google.com/view/lovedeepsingh/research/clusteringtext)
-</br>
 **Clustering Text : a comparison between available text vectorization techniques***  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </br>
 Author: Lovedeep Singh                                                       
